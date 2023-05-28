@@ -1917,3 +1917,485 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.05.28-10.06.33:041][ 38]LogSlate: Window 'BP_Spin' being destroyed
 [2023.05.28-10.06.33:043][ 38]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
 [2023.05.28-10.06.33:043][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-10.18.15:502][305]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.28-10.18.15:514][305]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.28-10.18.17:535][427]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2023.05.28-10.18.17:537][427]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.28-10.18.48:356][627]LogSlate: Window '부모 클래스 선택' being destroyed
+[2023.05.28-10.18.56:140][ 80]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.05.28-10.18.56:147][ 80]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.05.28-10.19.01:893][425]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> PlayerHealth
+[2023.05.28-10.19.01:908][425]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.05.28-10.19.04:692][591]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/PlayerHealth.PlayerHealth
+[2023.05.28-10.28.26:217][891]LogSlate: Window 'PlayerHealth' being destroyed
+[2023.05.28-10.28.26:241][891]LogSlate: Window 'PlayerHealth' being destroyed
+[2023.05.28-10.28.26:247][891]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.05.28-10.28.26:247][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-10.28.26:259][891]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.05.28-10.28.26:259][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-10.28.32:957][282]LogMetaData: Removing '/Game/ThirdPersonBP/UI/PlayerHealth.SKEL_PlayerHealth_C' ref from Metadata '/Game/UI/PlayerHealth.PackageMetaData'
+[2023.05.28-10.28.32:957][282]LogMetaData: Removing '/Game/ThirdPersonBP/UI/PlayerHealth.PlayerHealth_C' ref from Metadata '/Game/UI/PlayerHealth.PackageMetaData'
+[2023.05.28-10.28.32:957][282]LogMetaData: Removing '/Game/ThirdPersonBP/UI/PlayerHealth.PlayerHealth:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/PlayerHealth.PackageMetaData'
+[2023.05.28-10.28.32:957][282]LogMetaData: Removing '/Game/ThirdPersonBP/UI/PlayerHealth.PlayerHealth:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/PlayerHealth.PackageMetaData'
+[2023.05.28-10.28.32:957][282]LogMetaData: Removing '/Game/ThirdPersonBP/UI/PlayerHealth.PlayerHealth:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/PlayerHealth.PackageMetaData'
+[2023.05.28-10.28.32:976][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI/PlayerHealth" FILE="../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Content/ThirdPersonBP/UI/PlayerHealth.uasset" SILENT=true
+[2023.05.28-10.28.32:979][282]LogSavePackage: Moving '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/PlayerHealthA880E46E404ADD693069919900AA2AF4.tmp' to '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Content/ThirdPersonBP/UI/PlayerHealth.uasset'
+[2023.05.28-10.28.33:130][282]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2023.05.28-10.28.33:207][282]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2023.05.28-10.28.33:219][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.05.28-10.28.33:286][282]AssetCheck: New page: 에셋 저장:  PlayerHealth
+[2023.05.28-10.28.33:286][282]LogContentValidation: Display: WidgetBlueprint /Game/ThirdPersonBP/UI/PlayerHealth.PlayerHealth 유효성 검사 중
+[2023.05.28-10.28.37:188][514]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/UI/PlayerHealth.PlayerHealth
+[2023.05.28-10.30.52:063][928]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.05.28-10.30.52:066][928]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.026
+[2023.05.28-10.30.52:066][928]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/UI/PlayerHealth] ([2] browsable assets)...
+[2023.05.28-10.30.52:066][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/UI/PlayerHealth]
+[2023.05.28-10.30.52:069][928]LogSavePackage: Moving '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/PlayerHealth_Auto62A4BE53B4673266FE11338B8D0C19998.tmp' to '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/Autosaves/Game/ThirdPersonBP/UI/PlayerHealth_Auto6.uasset'
+[2023.05.28-10.30.52:069][928]LogFileHelpers: Auto-saving content packages took 0.003
+[2023.05.28-10.32.28:405][ 39]BlueprintLog: New page: PlayerHealth 컴파일
+[2023.05.28-10.32.28:425][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.05.28-10.32.29:252][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI/PlayerHealth" FILE="../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Content/ThirdPersonBP/UI/PlayerHealth.uasset" SILENT=true
+[2023.05.28-10.32.29:255][ 71]LogSavePackage: Moving '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/PlayerHealth5FB0BD504D7D41CE186DF9AEE5EE0105.tmp' to '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Content/ThirdPersonBP/UI/PlayerHealth.uasset'
+[2023.05.28-10.32.29:265][ 71]AssetCheck: New page: 에셋 저장:  PlayerHealth
+[2023.05.28-10.32.29:265][ 71]LogContentValidation: Display: WidgetBlueprint /Game/ThirdPersonBP/UI/PlayerHealth.PlayerHealth 유효성 검사 중
+[2023.05.28-10.32.33:926][295]BlueprintLog: New page: PlayerHealth 컴파일
+[2023.05.28-10.32.33:953][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.05.28-10.32.34:632][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI/PlayerHealth" FILE="../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Content/ThirdPersonBP/UI/PlayerHealth.uasset" SILENT=true
+[2023.05.28-10.32.34:636][317]LogSavePackage: Moving '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/PlayerHealthEEF6CAF9413A02BDBE838187F101CE80.tmp' to '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Content/ThirdPersonBP/UI/PlayerHealth.uasset'
+[2023.05.28-10.32.34:645][317]AssetCheck: New page: 에셋 저장:  PlayerHealth
+[2023.05.28-10.32.34:645][317]LogContentValidation: Display: WidgetBlueprint /Game/ThirdPersonBP/UI/PlayerHealth.PlayerHealth 유효성 검사 중
+[2023.05.28-10.32.35:776][360]LogSlate: Window 'PlayerHealth' being destroyed
+[2023.05.28-10.32.35:814][360]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.05.28-10.32.35:814][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-10.32.35:818][360]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.05.28-10.32.35:818][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-10.32.39:643][578]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.05.28-10.33.39:323][811]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.05.28-10.33.39:343][811]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.28-10.34.32:393][147]BlueprintLog: New page: ThirdPersonCharacter 컴파일
+[2023.05.28-10.34.32:441][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.05.28-10.34.34:238][220]LogSavePackage: Moving '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/ThirdPersonCharacter8C3D00214EE0E6FC49B1B6B976E9DAD1.tmp' to '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.05.28-10.34.34:252][220]AssetCheck: New page: 에셋 저장:  ThirdPersonCharacter
+[2023.05.28-10.34.34:252][220]LogContentValidation: Display: Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter 유효성 검사 중
+[2023.05.28-10.34.38:358][448]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.05.28-10.34.38:361][448]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.28-10.34.38:361][448]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 5. 29. 오전 4:34:38)
+[2023.05.28-10.34.38:362][448]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.28-10.34.38:371][448]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008441s)
+[2023.05.28-10.34.38:371][448]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.05.28-10.34.38:372][448]LogPlayLevel: PIE: World Init took: (0.001123s)
+[2023.05.28-10.34.38:372][448]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009662s)
+[2023.05.28-10.34.38:388][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.05.28-10.34.38:391][448]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.05.28-10.34.38:391][448]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.28-10.34.38:391][448]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.28-10.34.38:391][448]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.28-10.34.38:391][448]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.28-10.34.38:391][448]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.28-10.34.38:391][448]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.28-10.34.38:391][448]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.28-10.34.38:391][448]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.28-10.34.38:391][448]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.28-10.34.38:391][448]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.28-10.34.38:391][448]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.28-10.34.38:391][448]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.28-10.34.38:393][448]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.28-10.34.38:393][448]LogAudioMixer: Display: 1: FrontRight
+[2023.05.28-10.34.38:445][448]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2023.05.28-10.34.38:446][448]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.28-10.34.38:446][448]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.28-10.34.38:446][448]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.28-10.34.38:446][448]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.28-10.34.38:446][448]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.28-10.34.38:446][448]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.28-10.34.38:448][448]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.28-10.34.38:448][448]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.28-10.34.38:448][448]LogInit: FAudioDevice initialized.
+[2023.05.28-10.34.38:448][448]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonExampleMap'.
+[2023.05.28-10.34.38:459][448]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.28-10.34.38:461][448]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.05.28-19.34.38
+[2023.05.28-10.34.38:461][448]LogWorld: Bringing up level for play took: 0.001376
+[2023.05.28-10.34.38:461][448]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2023.05.28-10.34.38:463][448]PIE: 서버가 로그인했습니다.
+[2023.05.28-10.34.38:464][448]PIE: 에디터에서 플레이 총 시작 시간 0.103초입니다.
+[2023.05.28-10.35.37:206][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-10.35.37:206][969]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.28-10.35.37:206][969]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.28-10.35.37:206][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-10.35.37:218][969]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.28-10.35.37:225][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-10.35.37:240][969]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.28-10.35.37:240][969]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.28-10.35.37:241][969]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.28-10.35.37:244][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-10.35.37:246][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.05.28-10.35.37:270][970]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.05.28-10.36.10:785][676]LogSlate: Took 0.005531 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.05.28-10.36.32:782][288]BlueprintLog: New page: ThirdPersonCharacter 컴파일
+[2023.05.28-10.36.32:818][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.05.28-10.36.37:389][510]BlueprintLog: New page: ThirdPersonCharacter 컴파일
+[2023.05.28-10.36.37:430][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.05.28-10.37.05:862][416]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/UI/PlayerHealth.PlayerHealth
+[2023.05.28-10.41.51:411][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.05.28-10.41.51:424][948]LogSavePackage: Moving '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/ThirdPersonExampleMap_Auto78E68B10A428A56E2E87A2896863681D0.tmp' to '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto7.umap'
+[2023.05.28-10.41.51:425][948]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.034
+[2023.05.28-10.41.51:425][948]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2023.05.28-10.41.51:426][948]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([2] browsable assets)...
+[2023.05.28-10.41.51:445][948]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2023.05.28-10.41.51:445][948]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2023.05.28-10.41.51:463][948]LogSavePackage: Moving '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/ThirdPersonCharacter_Auto76D571CA140EEF2C006D0C5B2CE61A244.tmp' to '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto7.uasset'
+[2023.05.28-10.41.51:464][948]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/UI/PlayerHealth] ([2] browsable assets)...
+[2023.05.28-10.41.51:464][948]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/UI/PlayerHealth]
+[2023.05.28-10.41.51:469][948]LogSavePackage: Moving '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/PlayerHealth_Auto702908DD24C4FEC9F2944769727536E73.tmp' to '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/Autosaves/Game/ThirdPersonBP/UI/PlayerHealth_Auto7.uasset'
+[2023.05.28-10.41.51:469][948]LogFileHelpers: Auto-saving content packages took 0.044
+[2023.05.28-10.49.53:340][608]BlueprintLog: New page: ThirdPersonCharacter 컴파일
+[2023.05.28-10.49.53:387][608]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.05.28-10.50.07:117][841]LogSavePackage: Moving '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/ThirdPersonCharacter5B52F78D490E2E0622E778B600F43636.tmp' to '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.05.28-10.50.07:130][841]AssetCheck: New page: 에셋 저장:  ThirdPersonCharacter
+[2023.05.28-10.50.07:130][841]LogContentValidation: Display: Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter 유효성 검사 중
+[2023.05.28-10.50.10:619][ 15]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.05.28-10.50.10:622][ 15]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2023.05.28-10.50.10:631][ 15]LogPlayLevel: [PlayLevel] Compiling PlayerHealth before play...
+[2023.05.28-10.50.10:671][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.05.28-10.50.10:673][ 15]LogPlayLevel: PlayLevel: Blueprint regeneration took 50 ms (1 blueprints)
+[2023.05.28-10.50.10:673][ 15]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 5. 29. 오전 4:50:10)
+[2023.05.28-10.50.10:673][ 15]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.28-10.50.10:681][ 15]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008526s)
+[2023.05.28-10.50.10:682][ 15]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.05.28-10.50.10:682][ 15]LogPlayLevel: PIE: World Init took: (0.001172s)
+[2023.05.28-10.50.10:682][ 15]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009853s)
+[2023.05.28-10.50.10:698][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.05.28-10.50.10:699][ 15]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.05.28-10.50.10:699][ 15]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.28-10.50.10:699][ 15]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.28-10.50.10:699][ 15]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.28-10.50.10:699][ 15]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.28-10.50.10:699][ 15]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.28-10.50.10:699][ 15]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.28-10.50.10:699][ 15]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.28-10.50.10:699][ 15]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.28-10.50.10:699][ 15]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.28-10.50.10:699][ 15]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.28-10.50.10:699][ 15]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.28-10.50.10:699][ 15]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.28-10.50.10:701][ 15]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.28-10.50.10:701][ 15]LogAudioMixer: Display: 1: FrontRight
+[2023.05.28-10.50.10:751][ 15]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2023.05.28-10.50.10:751][ 15]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.28-10.50.10:751][ 15]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.28-10.50.10:751][ 15]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.28-10.50.10:752][ 15]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.28-10.50.10:752][ 15]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.28-10.50.10:752][ 15]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.28-10.50.10:752][ 15]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.28-10.50.10:752][ 15]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.28-10.50.10:752][ 15]LogInit: FAudioDevice initialized.
+[2023.05.28-10.50.10:752][ 15]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonExampleMap'.
+[2023.05.28-10.50.10:760][ 15]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.28-10.50.10:763][ 15]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.05.28-19.50.10
+[2023.05.28-10.50.10:763][ 15]LogWorld: Bringing up level for play took: 0.001399
+[2023.05.28-10.50.10:763][ 15]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2023.05.28-10.50.10:767][ 15]PIE: 서버가 로그인했습니다.
+[2023.05.28-10.50.10:768][ 15]PIE: 에디터에서 플레이 총 시작 시간 0.147초입니다.
+[2023.05.28-10.50.12:999][148]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 90.0
+[2023.05.28-10.50.13:330][168]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 80.0
+[2023.05.28-10.50.13:897][202]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 70.0
+[2023.05.28-10.50.14:397][232]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 60.0
+[2023.05.28-10.50.14:814][257]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 50.0
+[2023.05.28-10.50.15:130][276]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 40.0
+[2023.05.28-10.50.15:397][292]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 30.0
+[2023.05.28-10.50.15:597][304]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 20.0
+[2023.05.28-10.50.15:764][314]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2023.05.28-10.50.15:947][325]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2023.05.28-10.50.16:114][335]LogBlueprintUserMessages: [ThirdPersonCharacter_167] -10.0
+[2023.05.28-10.50.16:797][376]LogBlueprintUserMessages: [ThirdPersonCharacter_167] -20.0
+[2023.05.28-10.50.17:013][389]LogBlueprintUserMessages: [ThirdPersonCharacter_167] -30.0
+[2023.05.28-10.50.53:093][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-10.50.53:093][551]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.28-10.50.53:095][551]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.28-10.50.53:095][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-10.50.53:101][551]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.28-10.50.53:107][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-10.50.53:122][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-10.50.53:122][551]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.28-10.50.53:123][551]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.28-10.50.53:129][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.05.28-10.50.53:165][553]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.05.28-10.52.35:522][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.05.28-10.52.35:539][480]LogSavePackage: Moving '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/ThirdPersonExampleMap_Auto81DAEF5E74AE40A3EBDE009A0DE7C93E9.tmp' to '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto8.umap'
+[2023.05.28-10.52.35:540][480]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.036
+[2023.05.28-10.52.35:540][480]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.036
+[2023.05.28-10.54.08:183][428]BlueprintLog: New page: ThirdPersonCharacter 컴파일
+[2023.05.28-10.54.08:229][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.05.28-10.54.08:904][453]LogSavePackage: Moving '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/ThirdPersonCharacter1703CA004B8A3EC1785E0CA7FA3ED409.tmp' to '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.05.28-10.54.08:916][453]AssetCheck: New page: 에셋 저장:  ThirdPersonCharacter
+[2023.05.28-10.54.08:916][453]LogContentValidation: Display: Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter 유효성 검사 중
+[2023.05.28-10.54.10:953][541]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.05.28-10.54.10:953][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-10.54.11:987][584]LogSlate: Window 'PlayerHealth' being destroyed
+[2023.05.28-10.54.12:013][584]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.05.28-10.54.12:013][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-10.54.12:020][584]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.05.28-10.54.12:020][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-10.54.13:677][676]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.05.28-10.54.13:680][676]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.28-10.54.13:680][676]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 5. 29. 오전 4:54:13)
+[2023.05.28-10.54.13:680][676]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.28-10.54.13:689][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008545s)
+[2023.05.28-10.54.13:690][676]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.05.28-10.54.13:690][676]LogPlayLevel: PIE: World Init took: (0.001157s)
+[2023.05.28-10.54.13:690][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009913s)
+[2023.05.28-10.54.13:706][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.05.28-10.54.13:709][676]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.05.28-10.54.13:709][676]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.28-10.54.13:709][676]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.28-10.54.13:709][676]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.28-10.54.13:709][676]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.28-10.54.13:709][676]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.28-10.54.13:709][676]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.28-10.54.13:709][676]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.28-10.54.13:709][676]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.28-10.54.13:709][676]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.28-10.54.13:709][676]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.28-10.54.13:709][676]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.28-10.54.13:709][676]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.28-10.54.13:712][676]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.28-10.54.13:712][676]LogAudioMixer: Display: 1: FrontRight
+[2023.05.28-10.54.13:762][676]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2023.05.28-10.54.13:762][676]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.28-10.54.13:762][676]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.28-10.54.13:762][676]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.28-10.54.13:762][676]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.28-10.54.13:762][676]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.28-10.54.13:762][676]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.28-10.54.13:763][676]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.28-10.54.13:763][676]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.28-10.54.13:763][676]LogInit: FAudioDevice initialized.
+[2023.05.28-10.54.13:763][676]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonExampleMap'.
+[2023.05.28-10.54.13:772][676]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.28-10.54.13:773][676]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.05.28-19.54.13
+[2023.05.28-10.54.13:774][676]LogWorld: Bringing up level for play took: 0.001329
+[2023.05.28-10.54.13:774][676]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2023.05.28-10.54.13:776][676]PIE: 서버가 로그인했습니다.
+[2023.05.28-10.54.13:777][676]PIE: 에디터에서 플레이 총 시작 시간 0.098초입니다.
+[2023.05.28-10.54.15:850][800]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 90.0
+[2023.05.28-10.54.16:066][813]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 80.0
+[2023.05.28-10.54.16:234][823]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 70.0
+[2023.05.28-10.54.16:400][833]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 60.0
+[2023.05.28-10.54.16:567][843]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 50.0
+[2023.05.28-10.54.16:767][855]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 40.0
+[2023.05.28-10.54.16:983][868]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 30.0
+[2023.05.28-10.54.17:217][882]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 20.0
+[2023.05.28-10.54.17:535][901]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2023.05.28-10.54.18:084][934]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2023.05.28-10.54.25:563][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-10.54.25:563][381]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.28-10.54.25:563][381]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.28-10.54.25:563][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-10.54.25:574][381]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.28-10.54.25:580][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-10.54.25:592][381]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.28-10.54.25:592][381]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.28-10.54.25:594][381]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.28-10.54.25:596][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-10.54.25:599][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.05.28-10.54.25:652][384]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.05.28-10.54.32:643][800]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/UI/PlayerHealth.PlayerHealth
+[2023.05.28-10.54.41:361][202]BlueprintLog: New page: PlayerHealth 컴파일
+[2023.05.28-10.54.41:390][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.05.28-10.54.42:412][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI/PlayerHealth" FILE="../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Content/ThirdPersonBP/UI/PlayerHealth.uasset" SILENT=true
+[2023.05.28-10.54.42:418][238]LogSavePackage: Moving '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/PlayerHealth6BB3C08A49ED1E3EFE4576BE4D0AB98E.tmp' to '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Content/ThirdPersonBP/UI/PlayerHealth.uasset'
+[2023.05.28-10.54.42:427][238]AssetCheck: New page: 에셋 저장:  PlayerHealth
+[2023.05.28-10.54.42:427][238]LogContentValidation: Display: WidgetBlueprint /Game/ThirdPersonBP/UI/PlayerHealth.PlayerHealth 유효성 검사 중
+[2023.05.28-10.54.45:347][395]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.05.28-10.54.45:350][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.28-10.54.45:350][395]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 5. 29. 오전 4:54:45)
+[2023.05.28-10.54.45:350][395]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.28-10.54.45:359][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008299s)
+[2023.05.28-10.54.45:360][395]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.05.28-10.54.45:360][395]LogPlayLevel: PIE: World Init took: (0.000896s)
+[2023.05.28-10.54.45:360][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009336s)
+[2023.05.28-10.54.45:377][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.05.28-10.54.45:378][395]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.05.28-10.54.45:378][395]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.28-10.54.45:378][395]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.28-10.54.45:378][395]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.28-10.54.45:378][395]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.28-10.54.45:378][395]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.28-10.54.45:378][395]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.28-10.54.45:378][395]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.28-10.54.45:378][395]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.28-10.54.45:379][395]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.28-10.54.45:379][395]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.28-10.54.45:379][395]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.28-10.54.45:379][395]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.28-10.54.45:380][395]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.28-10.54.45:380][395]LogAudioMixer: Display: 1: FrontRight
+[2023.05.28-10.54.45:431][395]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2023.05.28-10.54.45:431][395]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.28-10.54.45:431][395]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.28-10.54.45:431][395]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.28-10.54.45:431][395]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.28-10.54.45:431][395]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.28-10.54.45:431][395]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.28-10.54.45:432][395]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.28-10.54.45:432][395]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.28-10.54.45:432][395]LogInit: FAudioDevice initialized.
+[2023.05.28-10.54.45:432][395]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonExampleMap'.
+[2023.05.28-10.54.45:440][395]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.28-10.54.45:441][395]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.05.28-19.54.45
+[2023.05.28-10.54.45:441][395]LogWorld: Bringing up level for play took: 0.001183
+[2023.05.28-10.54.45:441][395]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2023.05.28-10.54.45:444][395]PIE: 서버가 로그인했습니다.
+[2023.05.28-10.54.45:445][395]PIE: 에디터에서 플레이 총 시작 시간 0.094초입니다.
+[2023.05.28-10.54.51:756][773]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 90.0
+[2023.05.28-10.54.51:939][784]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 80.0
+[2023.05.28-10.54.52:140][796]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 70.0
+[2023.05.28-10.54.52:323][807]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 60.0
+[2023.05.28-10.54.52:540][820]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 50.0
+[2023.05.28-10.54.52:723][831]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 40.0
+[2023.05.28-10.54.52:906][842]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 30.0
+[2023.05.28-10.54.53:090][853]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 20.0
+[2023.05.28-10.54.53:289][865]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2023.05.28-10.54.53:556][881]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2023.05.28-10.54.58:744][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-10.54.58:744][190]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.28-10.54.58:744][190]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.28-10.54.58:744][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-10.54.58:755][190]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.28-10.54.58:763][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-10.54.58:776][190]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.28-10.54.58:776][190]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.28-10.54.58:778][190]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.28-10.54.58:780][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-10.54.58:782][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.05.28-10.54.58:819][192]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.05.28-10.58.12:361][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/UI/PlayerHealth" FILE="../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Content/ThirdPersonBP/UI/PlayerHealth.uasset" SILENT=true
+[2023.05.28-10.58.12:366][766]LogSavePackage: Moving '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/PlayerHealth56DB6A684F8D39EF65588D8631F0A748.tmp' to '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Content/ThirdPersonBP/UI/PlayerHealth.uasset'
+[2023.05.28-10.58.12:380][766]AssetCheck: New page: 에셋 저장:  PlayerHealth
+[2023.05.28-10.58.12:380][766]LogContentValidation: Display: WidgetBlueprint /Game/ThirdPersonBP/UI/PlayerHealth.PlayerHealth 유효성 검사 중
+[2023.05.28-10.58.13:253][808]LogSlate: Window 'PlayerHealth' being destroyed
+[2023.05.28-10.58.13:284][808]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.05.28-10.58.13:284][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-10.58.13:288][808]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.05.28-10.58.13:288][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-10.58.14:912][899]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.05.28-10.58.14:915][899]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.28-10.58.14:915][899]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 5. 29. 오전 4:58:14)
+[2023.05.28-10.58.14:915][899]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.28-10.58.14:924][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008740s)
+[2023.05.28-10.58.14:925][899]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.05.28-10.58.14:925][899]LogPlayLevel: PIE: World Init took: (0.001158s)
+[2023.05.28-10.58.14:925][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010077s)
+[2023.05.28-10.58.14:942][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.05.28-10.58.14:946][899]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.05.28-10.58.14:946][899]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.28-10.58.14:946][899]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.28-10.58.14:946][899]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.28-10.58.14:946][899]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.28-10.58.14:946][899]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.28-10.58.14:946][899]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.28-10.58.14:946][899]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.28-10.58.14:946][899]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.28-10.58.14:946][899]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.28-10.58.14:946][899]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.28-10.58.14:946][899]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.28-10.58.14:946][899]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.28-10.58.14:948][899]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.28-10.58.14:948][899]LogAudioMixer: Display: 1: FrontRight
+[2023.05.28-10.58.14:997][899]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2023.05.28-10.58.14:997][899]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.28-10.58.14:997][899]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.28-10.58.14:997][899]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.28-10.58.14:998][899]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.28-10.58.14:998][899]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.28-10.58.14:998][899]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.28-10.58.14:999][899]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.28-10.58.14:999][899]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.28-10.58.14:999][899]LogInit: FAudioDevice initialized.
+[2023.05.28-10.58.14:999][899]LogAudio: Display: Audio Device (ID: 12) registered with world 'ThirdPersonExampleMap'.
+[2023.05.28-10.58.15:008][899]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.28-10.58.15:009][899]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.05.28-19.58.15
+[2023.05.28-10.58.15:009][899]LogWorld: Bringing up level for play took: 0.001171
+[2023.05.28-10.58.15:009][899]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2023.05.28-10.58.15:011][899]PIE: 서버가 로그인했습니다.
+[2023.05.28-10.58.15:012][899]PIE: 에디터에서 플레이 총 시작 시간 0.097초입니다.
+[2023.05.28-10.58.50:918][ 51]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 90.0
+[2023.05.28-10.58.51:236][ 70]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 80.0
+[2023.05.28-10.58.51:469][ 84]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 70.0
+[2023.05.28-10.58.51:685][ 97]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 60.0
+[2023.05.28-10.58.51:953][113]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 50.0
+[2023.05.28-10.58.52:169][126]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 40.0
+[2023.05.28-10.58.52:386][139]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 30.0
+[2023.05.28-10.58.52:601][152]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 20.0
+[2023.05.28-10.58.52:836][166]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.0
+[2023.05.28-10.58.53:102][182]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2023.05.28-10.58.59:653][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-10.58.59:653][573]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.28-10.58.59:654][573]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.28-10.58.59:654][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-10.58.59:664][573]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.28-10.58.59:672][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-10.58.59:684][573]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.28-10.58.59:684][573]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.28-10.58.59:685][573]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.28-10.58.59:688][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-10.58.59:691][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.05.28-10.58.59:727][575]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2023.05.28-11.03.46:150][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.05.28-11.03.46:165][605]LogSavePackage: Moving '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/ThirdPersonExampleMap_Auto9FC545DB54256A3212D40C7ABB5E11EA1.tmp' to '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto9.umap'
+[2023.05.28-11.03.46:166][605]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.031
+[2023.05.28-11.03.46:166][605]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.031
+[2023.05.28-11.09.29:865][450]LogEditorViewport: Clicking on Actor (LMB): BP_Platform_C (BP_Platform)
+[2023.05.28-11.09.37:582][912]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.05.28-11.09.37:585][912]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.28-11.09.37:585][912]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 5. 29. 오전 5:09:37)
+[2023.05.28-11.09.37:585][912]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.28-11.09.37:594][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008802s)
+[2023.05.28-11.09.37:595][912]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.05.28-11.09.37:596][912]LogPlayLevel: PIE: World Init took: (0.001922s)
+[2023.05.28-11.09.37:596][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010871s)
+[2023.05.28-11.09.37:612][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.05.28-11.09.37:618][912]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.05.28-11.09.37:618][912]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.28-11.09.37:618][912]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.28-11.09.37:618][912]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.28-11.09.37:618][912]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.28-11.09.37:618][912]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.28-11.09.37:618][912]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.28-11.09.37:618][912]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.28-11.09.37:618][912]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.28-11.09.37:619][912]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.28-11.09.37:619][912]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.28-11.09.37:619][912]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.28-11.09.37:619][912]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.28-11.09.37:620][912]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.28-11.09.37:620][912]LogAudioMixer: Display: 1: FrontRight
+[2023.05.28-11.09.37:670][912]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2023.05.28-11.09.37:670][912]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.28-11.09.37:670][912]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.28-11.09.37:670][912]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.28-11.09.37:671][912]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.28-11.09.37:671][912]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.28-11.09.37:671][912]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.28-11.09.37:671][912]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.28-11.09.37:671][912]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.28-11.09.37:671][912]LogInit: FAudioDevice initialized.
+[2023.05.28-11.09.37:671][912]LogAudio: Display: Audio Device (ID: 13) registered with world 'ThirdPersonExampleMap'.
+[2023.05.28-11.09.37:680][912]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.28-11.09.37:682][912]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.05.28-20.09.37
+[2023.05.28-11.09.37:682][912]LogWorld: Bringing up level for play took: 0.001335
+[2023.05.28-11.09.37:682][912]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2023.05.28-11.09.37:684][912]PIE: 서버가 로그인했습니다.
+[2023.05.28-11.09.37:685][912]PIE: 에디터에서 플레이 총 시작 시간 0.1초입니다.
+[2023.05.28-11.10.04:942][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-11.10.04:942][543]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.28-11.10.04:942][543]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.28-11.10.04:942][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-11.10.04:949][543]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.28-11.10.04:955][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-11.10.04:970][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-11.10.04:970][543]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.28-11.10.04:971][543]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.28-11.10.04:977][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.05.28-11.10.05:015][545]LogPlayLevel: Display: Destroying online subsystem :Context_42
