@@ -2421,3 +2421,74 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.05.30-09.37.11:970][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.05.30-09.37.11:973][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
 [2023.05.30-09.37.11:997][312]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.05.30-09.41.12:744][402]LogSlate: Window '부모 클래스 선택' being destroyed
+[2023.05.30-09.41.12:750][402]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.05.30-09.41.12:766][402]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.05.30-09.41.23:467][ 39]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_KillPart
+[2023.05.30-09.41.23:472][ 39]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.05.30-09.41.25:987][189]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/BP_KillPart.BP_KillPart
+[2023.05.30-09.43.18:652][530]BlueprintLog: New page: BP_KillPart 컴파일
+[2023.05.30-09.43.18:701][530]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.05.30-09.43.19:653][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_KillPart" FILE="../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Content/BluePrint/BP_KillPart.uasset" SILENT=true
+[2023.05.30-09.43.19:662][568]LogSavePackage: Moving '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/BP_KillPart6CBC29ED45DE95E7D6A8B7AE67AC17C6.tmp' to '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Content/BluePrint/BP_KillPart.uasset'
+[2023.05.30-09.43.19:674][568]AssetCheck: New page: 에셋 저장:  BP_KillPart
+[2023.05.30-09.43.19:674][568]LogContentValidation: Display: Blueprint /Game/BluePrint/BP_KillPart.BP_KillPart 유효성 검사 중
+[2023.05.30-09.43.30:215][168]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.05.30-09.43.30:221][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.30-09.43.30:221][168]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 5. 31. 오전 3:43:30)
+[2023.05.30-09.43.30:221][168]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.30-09.43.30:229][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007823s)
+[2023.05.30-09.43.30:229][168]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.05.30-09.43.30:231][168]LogPlayLevel: PIE: World Init took: (0.001153s)
+[2023.05.30-09.43.30:231][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009079s)
+[2023.05.30-09.43.30:256][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.05.30-09.43.30:258][168]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.05.30-09.43.30:258][168]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.30-09.43.30:258][168]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.30-09.43.30:258][168]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.30-09.43.30:258][168]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.30-09.43.30:258][168]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.30-09.43.30:258][168]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.30-09.43.30:258][168]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.30-09.43.30:258][168]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.30-09.43.30:259][168]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.30-09.43.30:259][168]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.30-09.43.30:259][168]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.30-09.43.30:259][168]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.30-09.43.30:261][168]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.30-09.43.30:261][168]LogAudioMixer: Display: 1: FrontRight
+[2023.05.30-09.43.30:309][168]LogAudioMixer: Display: Using Audio Device 헤드폰(Realtek(R) Audio)
+[2023.05.30-09.43.30:309][168]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.30-09.43.30:309][168]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.30-09.43.30:309][168]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.30-09.43.30:309][168]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.30-09.43.30:309][168]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.30-09.43.30:309][168]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.30-09.43.30:311][168]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.30-09.43.30:311][168]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.30-09.43.30:311][168]LogInit: FAudioDevice initialized.
+[2023.05.30-09.43.30:311][168]LogAudio: Display: Audio Device (ID: 24) registered with world 'ThirdPersonExampleMap'.
+[2023.05.30-09.43.30:320][168]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.30-09.43.30:322][168]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.05.30-18.43.30
+[2023.05.30-09.43.30:322][168]LogWorld: Bringing up level for play took: 0.001374
+[2023.05.30-09.43.30:323][168]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2023.05.30-09.43.30:324][168]PIE: 서버가 로그인했습니다.
+[2023.05.30-09.43.30:325][168]PIE: 에디터에서 플레이 총 시작 시간 0.107초입니다.
+[2023.05.30-09.43.35:017][449]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2023.05.30-09.43.39:810][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.30-09.43.39:810][734]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.30-09.43.39:810][734]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.30-09.43.39:811][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.30-09.43.39:823][734]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.30-09.43.39:831][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.30-09.43.39:852][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.30-09.43.39:853][734]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.30-09.43.39:854][734]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.30-09.43.39:861][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.05.30-09.43.39:885][735]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2023.05.30-09.43.43:856][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.05.30-09.43.43:875][968]LogSavePackage: Moving '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/ThirdPersonExampleMap8B15AE724DD8313CDD99DDBC8FA28CA2.tmp' to '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.05.30-09.43.43:924][968]LogSavePackage: Moving '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/ThirdPersonExampleMap_BuiltDataB74E9CB24B9BBA1D29651F8DC8D0D6B9.tmp' to '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.05.30-09.43.43:935][968]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2023.05.30-09.43.43:935][968]LogContentValidation: Display: MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData 유효성 검사 중
+[2023.05.30-09.43.43:935][968]LogContentValidation: Display: World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap 유효성 검사 중
