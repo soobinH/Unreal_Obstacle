@@ -1360,3 +1360,1194 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.06.01-01.01.12:215][ 62]AssetCheck: New page: 에셋 저장:  다수의 에셋
 [2023.06.01-01.01.12:215][ 62]LogContentValidation: Display: MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData 유효성 검사 중
 [2023.06.01-01.01.12:215][ 62]LogContentValidation: Display: World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap 유효성 검사 중
+[2023.06.01-01.03.10:628][ 44]LogEditorViewport: Clicking on Actor (LMB): BP_SpinCross_C (BP_SpinCross)
+[2023.06.01-01.04.21:820][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.06.01-01.04.21:837][387]LogSavePackage: Moving '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/ThirdPersonExampleMap0FFD19324FED5E8DEE6421B0690D5DDD.tmp' to '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.06.01-01.04.21:886][387]LogSavePackage: Moving '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/ThirdPersonExampleMap_BuiltData2F8CB708448A1F97FF6E3D9A7DC20D2F.tmp' to '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.06.01-01.04.21:898][387]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2023.06.01-01.04.21:898][387]LogContentValidation: Display: MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData 유효성 검사 중
+[2023.06.01-01.04.21:898][387]LogContentValidation: Display: World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap 유효성 검사 중
+[2023.06.01-01.11.45:762][857]LogSlate: Window '부모 클래스 선택' being destroyed
+[2023.06.01-01.11.45:766][857]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.06.01-01.11.45:782][857]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.06.01-01.11.53:587][316]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_JumpPart
+[2023.06.01-01.11.53:590][316]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.06.01-01.11.56:234][474]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/BP_JumpPart.BP_JumpPart
+[2023.06.01-01.12.42:789][630]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.42:789][630]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.42:789][630]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.42:790][630]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.42:790][630]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.42:790][630]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.42:807][631]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.42:808][631]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.42:808][631]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.42:808][631]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.42:808][631]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.42:808][631]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.42:808][631]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.42:808][631]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.42:808][631]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.42:824][632]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.42:824][632]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.42:824][632]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.42:824][632]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.42:824][632]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.42:824][632]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.42:824][632]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.42:824][632]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.42:824][632]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.42:847][633]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.42:847][633]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.42:847][633]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.42:847][633]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.42:847][633]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.42:847][633]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.42:847][633]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.42:847][633]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.42:847][633]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.42:866][634]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.42:866][634]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.42:866][634]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.42:867][634]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.42:867][634]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.42:867][634]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.42:867][634]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.42:867][634]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.42:867][634]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.42:885][635]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.42:885][635]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.42:885][635]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.42:885][635]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.42:885][635]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.42:885][635]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.42:885][635]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.42:885][635]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.42:885][635]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.42:905][636]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.42:905][636]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.42:905][636]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.42:905][636]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.42:905][636]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.42:905][636]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.42:905][636]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.42:905][636]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.42:905][636]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.42:923][637]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.42:923][637]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.42:923][637]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.42:924][637]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.42:924][637]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.42:924][637]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.42:924][637]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.42:924][637]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.42:924][637]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.42:943][638]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.42:944][638]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.42:944][638]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.42:944][638]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.42:944][638]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.42:944][638]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.42:944][638]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.42:944][638]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.42:944][638]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.42:960][639]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.42:960][639]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.42:960][639]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.42:960][639]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.42:960][639]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.42:960][639]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.42:960][639]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.42:960][639]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.42:960][639]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.42:983][640]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.42:983][640]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.42:983][640]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.42:983][640]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.42:983][640]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.42:983][640]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.42:983][640]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.42:983][640]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.42:983][640]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.42:999][641]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.42:999][641]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.42:999][641]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:000][641]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:000][641]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:000][641]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:000][641]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:000][641]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:000][641]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:016][642]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:016][642]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:016][642]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:016][642]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:016][642]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:016][642]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:016][642]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:016][642]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:016][642]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:040][643]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:040][643]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:041][643]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:041][643]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:041][643]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:041][643]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:041][643]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:041][643]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:041][643]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:060][644]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:060][644]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:060][644]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:060][644]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:060][644]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:060][644]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:060][644]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:060][644]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:060][644]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:079][645]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:079][645]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:079][645]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:079][645]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:079][645]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:079][645]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:079][645]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:079][645]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:079][645]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:095][646]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:095][646]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:095][646]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:095][646]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:095][646]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:095][646]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:095][646]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:095][646]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:095][646]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:118][647]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:118][647]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:118][647]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:118][647]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:118][647]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:118][647]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:118][647]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:118][647]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:118][647]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:138][648]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:138][648]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:138][648]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:139][648]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:139][648]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:139][648]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:139][648]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:139][648]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:139][648]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:157][649]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:157][649]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:157][649]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:157][649]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:157][649]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:157][649]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:157][649]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:157][649]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:157][649]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:177][650]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:177][650]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:177][650]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:177][650]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:177][650]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:177][650]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:177][650]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:177][650]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:177][650]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:196][651]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:196][651]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:196][651]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:196][651]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:197][651]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:197][651]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:197][651]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:197][651]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:197][651]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:215][652]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:215][652]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:215][652]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:215][652]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:216][652]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:216][652]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:216][652]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:216][652]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:216][652]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:235][653]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:235][653]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:235][653]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:235][653]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:235][653]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:236][653]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:236][653]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:236][653]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:236][653]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:254][654]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:254][654]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:254][654]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:255][654]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:255][654]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:255][654]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:255][654]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:255][654]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:255][654]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:271][655]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:271][655]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:271][655]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:271][655]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:271][655]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:271][655]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:271][655]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:271][655]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:271][655]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:294][656]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:294][656]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:294][656]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:294][656]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:294][656]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:294][656]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:294][656]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:294][656]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:294][656]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:314][657]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:314][657]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:314][657]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:314][657]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:314][657]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:314][657]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:314][657]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:314][657]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:314][657]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:333][658]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:333][658]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:333][658]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:333][658]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:333][658]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:333][658]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:333][658]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:333][658]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:333][658]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:353][659]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:353][659]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:353][659]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:353][659]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:354][659]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:354][659]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:354][659]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:354][659]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:354][659]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:371][660]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:371][660]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:372][660]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:372][660]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:372][660]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:372][660]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:372][660]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:372][660]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:372][660]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:391][661]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:391][661]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:391][661]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:391][661]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:391][661]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:391][661]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:391][661]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:391][661]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:391][661]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:409][662]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:409][662]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:409][662]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:409][662]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:409][662]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:410][662]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:410][662]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:410][662]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:410][662]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:429][663]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:429][663]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:429][663]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:429][663]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:429][663]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:429][663]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:429][663]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:429][663]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:429][663]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:447][664]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:447][664]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:447][664]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:449][664]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:449][664]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:449][664]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:449][664]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:449][664]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:449][664]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:468][665]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:468][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:468][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:468][665]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:468][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:468][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:468][665]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:468][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:468][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:487][666]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:487][666]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:487][666]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:487][666]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:487][666]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:487][666]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:487][666]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:487][666]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:487][666]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:508][667]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:509][667]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:509][667]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:509][667]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:509][667]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:509][667]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:509][667]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:509][667]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:509][667]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:527][668]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:527][668]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:527][668]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:527][668]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:527][668]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:527][668]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:527][668]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:527][668]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:527][668]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:547][669]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:547][669]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:547][669]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.12.43:547][669]LogPhysics: Warning: Scale for /Engine/Transient.World_14:PersistentLevel.BP_JumpPart_C_0.Pad has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.06.01-01.12.43:547][669]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.06.01-01.12.43:547][669]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.06.01-01.14.54:645][671]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2023.06.01-01.14.54:647][671]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.039
+[2023.06.01-01.14.54:647][671]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrint/BP_SwingBall] ([2] browsable assets)...
+[2023.06.01-01.14.54:665][671]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/BP_SwingBall.BP_SwingBall]
+[2023.06.01-01.14.54:665][671]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_SwingBall]
+[2023.06.01-01.14.54:677][671]LogSavePackage: Moving '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/BP_SwingBall_Auto3EA7122624BD7FD0A414C0380044D2CFE.tmp' to '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/Autosaves/Game/BluePrint/BP_SwingBall_Auto3.uasset'
+[2023.06.01-01.14.54:677][671]LogFileHelpers: Auto-saving content packages took 0.030
+[2023.06.01-01.17.32:346][263]BlueprintLog: New page: BP_JumpPart 컴파일
+[2023.06.01-01.17.32:391][263]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2023.06.01-01.17.43:689][913]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.06.01-01.17.43:694][913]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.01-01.17.43:694][913]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 6. 1. 오후 7:17:43)
+[2023.06.01-01.17.43:694][913]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.06.01-01.17.43:703][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008089s)
+[2023.06.01-01.17.43:704][913]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.06.01-01.17.43:704][913]LogPlayLevel: PIE: World Init took: (0.001202s)
+[2023.06.01-01.17.43:704][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009408s)
+[2023.06.01-01.17.43:735][913]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.06.01-01.17.43:738][913]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.06.01-01.17.43:738][913]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.01-01.17.43:738][913]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.01-01.17.43:738][913]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.01-01.17.43:738][913]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.01-01.17.43:738][913]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.01-01.17.43:738][913]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.01-01.17.43:738][913]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.01-01.17.43:738][913]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.01-01.17.43:739][913]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.01-01.17.43:739][913]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.01-01.17.43:739][913]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.01-01.17.43:739][913]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.01-01.17.43:741][913]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.01-01.17.43:741][913]LogAudioMixer: Display: 1: FrontRight
+[2023.06.01-01.17.43:789][913]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2023.06.01-01.17.43:789][913]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.01-01.17.43:789][913]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.01-01.17.43:789][913]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.01-01.17.43:789][913]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.01-01.17.43:789][913]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.01-01.17.43:789][913]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.01-01.17.43:790][913]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.01-01.17.43:790][913]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.01-01.17.43:790][913]LogInit: FAudioDevice initialized.
+[2023.06.01-01.17.43:790][913]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonExampleMap'.
+[2023.06.01-01.17.43:795][913]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.06.01-01.17.43:797][913]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.06.01-10.17.43
+[2023.06.01-01.17.43:797][913]LogWorld: Bringing up level for play took: 0.001403
+[2023.06.01-01.17.43:798][913]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2023.06.01-01.17.43:799][913]PIE: 서버가 로그인했습니다.
+[2023.06.01-01.17.43:799][913]PIE: 에디터에서 플레이 총 시작 시간 0.107초입니다.
+[2023.06.01-01.17.51:441][370]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2023.06.01-01.17.57:660][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-01.17.57:660][738]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.06.01-01.17.57:660][738]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-01.17.57:660][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-01.17.57:675][738]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.01-01.17.57:683][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-01.17.57:710][738]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.01-01.17.57:710][738]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.01-01.17.57:712][738]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.01-01.17.57:714][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-01.17.57:718][738]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.06.01-01.17.57:742][739]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.06.01-01.17.59:717][857]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.06.01-01.17.59:721][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.01-01.17.59:721][857]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 6. 1. 오후 7:17:59)
+[2023.06.01-01.17.59:721][857]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.06.01-01.17.59:729][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007836s)
+[2023.06.01-01.17.59:730][857]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.06.01-01.17.59:730][857]LogPlayLevel: PIE: World Init took: (0.001331s)
+[2023.06.01-01.17.59:730][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009341s)
+[2023.06.01-01.17.59:758][857]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.06.01-01.17.59:760][857]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.06.01-01.17.59:760][857]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.01-01.17.59:760][857]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.01-01.17.59:760][857]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.01-01.17.59:760][857]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.01-01.17.59:760][857]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.01-01.17.59:760][857]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.01-01.17.59:760][857]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.01-01.17.59:760][857]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.01-01.17.59:760][857]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.01-01.17.59:760][857]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.01-01.17.59:760][857]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.01-01.17.59:760][857]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.01-01.17.59:762][857]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.01-01.17.59:762][857]LogAudioMixer: Display: 1: FrontRight
+[2023.06.01-01.17.59:808][857]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2023.06.01-01.17.59:808][857]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.01-01.17.59:808][857]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.01-01.17.59:808][857]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.01-01.17.59:810][857]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.01-01.17.59:810][857]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.01-01.17.59:810][857]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.01-01.17.59:811][857]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.01-01.17.59:811][857]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.01-01.17.59:811][857]LogInit: FAudioDevice initialized.
+[2023.06.01-01.17.59:811][857]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonExampleMap'.
+[2023.06.01-01.17.59:817][857]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.06.01-01.17.59:819][857]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.06.01-10.17.59
+[2023.06.01-01.17.59:819][857]LogWorld: Bringing up level for play took: 0.001449
+[2023.06.01-01.17.59:819][857]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2023.06.01-01.17.59:821][857]PIE: 서버가 로그인했습니다.
+[2023.06.01-01.17.59:822][857]PIE: 에디터에서 플레이 총 시작 시간 0.102초입니다.
+[2023.06.01-01.18.09:030][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-01.18.09:030][406]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.06.01-01.18.09:031][406]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-01.18.09:031][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-01.18.09:042][406]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.01-01.18.09:051][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-01.18.09:078][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-01.18.09:078][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.01-01.18.09:080][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.01-01.18.09:087][406]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.06.01-01.18.09:113][407]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.06.01-01.18.15:504][790]LogEditorViewport: Clicking on Actor (LMB): BP_Roller_C (BP_Roller)
+[2023.06.01-01.18.28:098][545]LogEditorViewport: Clicking on Actor (LMB): BP_JumpPart_C (BP_JumpPart)
+[2023.06.01-01.23.54:245][777]BlueprintLog: New page: BP_JumpPart 컴파일
+[2023.06.01-01.23.54:303][777]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2023.06.01-01.23.58:134][955]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.06.01-01.23.58:138][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.01-01.23.58:138][955]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 6. 1. 오후 7:23:58)
+[2023.06.01-01.23.58:138][955]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.06.01-01.23.58:149][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010163s)
+[2023.06.01-01.23.58:149][955]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.06.01-01.23.58:150][955]LogPlayLevel: PIE: World Init took: (0.001100s)
+[2023.06.01-01.23.58:150][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011370s)
+[2023.06.01-01.23.58:181][955]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2023.06.01-01.23.58:182][955]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.06.01-01.23.58:182][955]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.01-01.23.58:182][955]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.01-01.23.58:182][955]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.01-01.23.58:182][955]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.01-01.23.58:182][955]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.01-01.23.58:182][955]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.01-01.23.58:182][955]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.01-01.23.58:182][955]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.01-01.23.58:183][955]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.01-01.23.58:183][955]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.01-01.23.58:183][955]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.01-01.23.58:183][955]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.01-01.23.58:185][955]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.01-01.23.58:185][955]LogAudioMixer: Display: 1: FrontRight
+[2023.06.01-01.23.58:245][955]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2023.06.01-01.23.58:245][955]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.01-01.23.58:245][955]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.01-01.23.58:245][955]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.01-01.23.58:246][955]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.01-01.23.58:246][955]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.01-01.23.58:246][955]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.01-01.23.58:247][955]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.01-01.23.58:247][955]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.01-01.23.58:247][955]LogInit: FAudioDevice initialized.
+[2023.06.01-01.23.58:247][955]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonExampleMap'.
+[2023.06.01-01.23.58:257][955]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.06.01-01.23.58:259][955]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.06.01-10.23.58
+[2023.06.01-01.23.58:259][955]LogWorld: Bringing up level for play took: 0.001431
+[2023.06.01-01.23.58:260][955]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2023.06.01-01.23.58:262][955]PIE: 서버가 로그인했습니다.
+[2023.06.01-01.23.58:262][955]PIE: 에디터에서 플레이 총 시작 시간 0.124초입니다.
+[2023.06.01-01.24.12:878][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-01.24.12:878][829]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.06.01-01.24.12:878][829]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-01.24.12:879][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-01.24.12:893][829]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.01-01.24.12:902][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-01.24.12:929][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-01.24.12:929][829]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.01-01.24.12:930][829]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.01-01.24.12:937][829]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.06.01-01.24.12:962][830]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.06.01-01.24.30:047][650]BlueprintLog: New page: BP_JumpPart 컴파일
+[2023.06.01-01.24.30:102][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2023.06.01-01.24.32:268][759]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.06.01-01.24.32:271][759]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.01-01.24.32:271][759]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 6. 1. 오후 7:24:32)
+[2023.06.01-01.24.32:271][759]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.06.01-01.24.32:280][759]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008487s)
+[2023.06.01-01.24.32:281][759]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.06.01-01.24.32:281][759]LogPlayLevel: PIE: World Init took: (0.001056s)
+[2023.06.01-01.24.32:281][759]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009689s)
+[2023.06.01-01.24.32:311][759]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2023.06.01-01.24.32:312][759]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.06.01-01.24.32:312][759]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.01-01.24.32:312][759]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.01-01.24.32:312][759]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.01-01.24.32:312][759]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.01-01.24.32:312][759]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.01-01.24.32:312][759]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.01-01.24.32:312][759]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.01-01.24.32:312][759]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.01-01.24.32:312][759]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.01-01.24.32:313][759]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.01-01.24.32:313][759]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.01-01.24.32:313][759]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.01-01.24.32:314][759]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.01-01.24.32:314][759]LogAudioMixer: Display: 1: FrontRight
+[2023.06.01-01.24.32:362][759]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2023.06.01-01.24.32:362][759]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.01-01.24.32:362][759]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.01-01.24.32:362][759]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.01-01.24.32:362][759]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.01-01.24.32:363][759]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.01-01.24.32:363][759]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.01-01.24.32:363][759]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.01-01.24.32:363][759]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.01-01.24.32:363][759]LogInit: FAudioDevice initialized.
+[2023.06.01-01.24.32:363][759]LogAudio: Display: Audio Device (ID: 12) registered with world 'ThirdPersonExampleMap'.
+[2023.06.01-01.24.32:373][759]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.06.01-01.24.32:375][759]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.06.01-10.24.32
+[2023.06.01-01.24.32:375][759]LogWorld: Bringing up level for play took: 0.001298
+[2023.06.01-01.24.32:375][759]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2023.06.01-01.24.32:378][759]PIE: 서버가 로그인했습니다.
+[2023.06.01-01.24.32:378][759]PIE: 에디터에서 플레이 총 시작 시간 0.108초입니다.
+[2023.06.01-01.24.37:873][ 87]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2023.06.01-01.24.40:188][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-01.24.40:189][224]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.06.01-01.24.40:189][224]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-01.24.40:189][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-01.24.40:204][224]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.01-01.24.40:213][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-01.24.40:239][224]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.01-01.24.40:239][224]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.01-01.24.40:240][224]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.01-01.24.40:243][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-01.24.40:246][224]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.06.01-01.24.40:271][225]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.06.01-01.25.40:830][829]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.06.01-01.25.40:844][829]LogSavePackage: Moving '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/ThirdPersonExampleMap_Auto4DB2B024C404AC3B5E734A4923A1E09EE.tmp' to '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2023.06.01-01.25.40:845][829]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.047
+[2023.06.01-01.25.40:845][829]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.047
+[2023.06.01-01.28.16:601][167]LogEditorViewport: Clicking on Actor (LMB): BP_SwingBall_C (BP_SwingBall)
+[2023.06.01-01.30.59:069][891]LogUObjectHash: Compacting FUObjectHashTables data took   9.05ms
+[2023.06.01-01.31.01:802][891]LogSlate: Window '콘텐츠 저장' being destroyed
+[2023.06.01-01.31.01:925][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_JumpPart" FILE="../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Content/BluePrint/BP_JumpPart.uasset" SILENT=true
+[2023.06.01-01.31.01:968][891]LogSavePackage: Moving '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/BP_JumpPart6419646C4D955B7C69B7DB8588A8D339.tmp' to '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Content/BluePrint/BP_JumpPart.uasset'
+[2023.06.01-01.31.01:970][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_SwingBall" FILE="../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Content/BluePrint/BP_SwingBall.uasset" SILENT=true
+[2023.06.01-01.31.02:007][891]LogSavePackage: Moving '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/BP_SwingBallFE7D9A66434C7B8529875F87E18AA0F0.tmp' to '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Content/BluePrint/BP_SwingBall.uasset'
+[2023.06.01-01.31.02:155][891]LogSavePackage: Moving '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/ThirdPersonCharacter2B1BC8314D9FA6D7CD025981A288909B.tmp' to '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.06.01-01.31.02:250][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.06.01-01.31.02:303][891]LogSavePackage: Moving '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/ThirdPersonExampleMap87664D934BEC51F9C2D0A3B5BB13CB55.tmp' to '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.06.01-01.31.02:335][891]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.177
+[2023.06.01-01.31.02:492][891]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2023.06.01-01.31.02:492][891]LogContentValidation: Display: Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter 유효성 검사 중
+[2023.06.01-01.31.02:492][891]LogContentValidation: Display: World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap 유효성 검사 중
+[2023.06.01-01.31.02:493][891]LogContentValidation: Display: Blueprint /Game/BluePrint/BP_SwingBall.BP_SwingBall 유효성 검사 중
+[2023.06.01-01.31.02:493][891]LogContentValidation: Display: Blueprint /Game/BluePrint/BP_JumpPart.BP_JumpPart 유효성 검사 중
+[2023.06.01-01.31.05:284][ 53]LogSlate: Window '에셋 리포트' being destroyed
+[2023.06.01-01.31.38:856][ 53]LogSlate: Window '메시지' being destroyed
+[2023.06.01-01.31.38:886][ 53]Message dialog closed, result: YesAll, title: 메시지, text: C:/Users/황수빈/OneDrive/바탕 화면/TPS_Test/Content/Geometry/Meshes/1M_Cube.uasset 위치에 이미 에셋이 존재합니다. 덮어쓸까요?
+[2023.06.01-01.31.38:886][ 53]LogAssetTools: Warning: Failed to copy ../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Content/Geometry/Meshes/1M_Cube.uasset to C:/Users/황수빈/OneDrive/바탕 화면/TPS_Test/Content/Geometry/Meshes/1M_Cube.uasset while migrating assets
+[2023.06.01-01.31.38:889][ 53]LogAssetTools: Warning: Failed to copy ../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Content/Geometry/Meshes/CubeMaterial.uasset to C:/Users/황수빈/OneDrive/바탕 화면/TPS_Test/Content/Geometry/Meshes/CubeMaterial.uasset while migrating assets
+[2023.06.01-01.31.39:239][ 53]LogAssetTools: Warning: Failed to copy ../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset to C:/Users/황수빈/OneDrive/바탕 화면/TPS_Test/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset while migrating assets
+[2023.06.01-01.31.39:256][ 53]AssetTools: New page: 복사 오류
+[2023.06.01-01.31.39:256][ 53]AssetTools: Error: ../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Content/Geometry/Meshes/1M_Cube.uasset
+../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Content/Geometry/Meshes/CubeMaterial.uasset
+../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset
+
+[2023.06.01-01.31.39:257][ 53]AssetTools: New page: 복사 성공
+[2023.06.01-01.31.39:257][ 53]AssetTools: 
+[2023.06.01-01.31.39:257][ 53]AssetTools: /Game/BluePrint/BP_KillPart
+[2023.06.01-01.31.39:257][ 53]AssetTools: /Game/StarterContent/Materials/M_Basic_Wall
+[2023.06.01-01.31.39:257][ 53]AssetTools: /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter
+[2023.06.01-01.31.39:257][ 53]AssetTools: /Game/ThirdPersonBP/UI/PlayerHealth
+[2023.06.01-01.31.39:257][ 53]AssetTools: /Game/Mannequin/Character/Mesh/SK_Mannequin
+[2023.06.01-01.31.39:257][ 53]AssetTools: /Game/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset
+[2023.06.01-01.31.39:257][ 53]AssetTools: /Game/Mannequin/Character/Materials/M_UE4Man_ChestLogo
+[2023.06.01-01.31.39:257][ 53]AssetTools: /Game/Mannequin/Character/Textures/T_UE4Logo_N
+[2023.06.01-01.31.39:257][ 53]AssetTools: /Game/Mannequin/Character/Textures/T_UE4Logo_Mask
+[2023.06.01-01.31.39:258][ 53]AssetTools: /Game/Mannequin/Character/Textures/T_Male_N
+[2023.06.01-01.31.39:258][ 53]AssetTools: /Game/Mannequin/Character/Textures/T_Male_Mask
+[2023.06.01-01.31.39:258][ 53]AssetTools: /Game/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N
+[2023.06.01-01.31.39:258][ 53]AssetTools: /Game/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D
+[2023.06.01-01.31.39:258][ 53]AssetTools: /Game/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N
+[2023.06.01-01.31.39:258][ 53]AssetTools: /Game/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01
+[2023.06.01-01.31.39:258][ 53]AssetTools: /Game/Mannequin/Character/Materials/M_Male_Body
+[2023.06.01-01.31.39:258][ 53]AssetTools: /Game/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4
+[2023.06.01-01.31.39:258][ 53]AssetTools: /Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO
+[2023.06.01-01.31.39:258][ 53]AssetTools: /Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige
+[2023.06.01-01.31.39:258][ 53]AssetTools: /Game/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4
+[2023.06.01-01.31.39:258][ 53]AssetTools: /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton
+[2023.06.01-01.31.39:258][ 53]AssetTools: /Game/Mannequin/Character/Mesh/SK_Mannequin_Female
+[2023.06.01-01.31.39:258][ 53]AssetTools: /Game/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset
+[2023.06.01-01.31.39:258][ 53]AssetTools: /Game/Mannequin/Character/Materials/MI_Female_Body
+[2023.06.01-01.31.39:258][ 53]AssetTools: /Game/Mannequin/Character/Textures/T_Female_N
+[2023.06.01-01.31.39:258][ 53]AssetTools: /Game/Mannequin/Character/Textures/T_Female_Mask
+[2023.06.01-01.31.39:258][ 53]AssetTools: /Game/Mannequin/Animations/ThirdPerson_AnimBP
+[2023.06.01-01.31.39:258][ 53]AssetTools: /Game/Mannequin/Animations/ThirdPerson_IdleRun_2D
+[2023.06.01-01.31.39:258][ 53]AssetTools: /Game/Mannequin/Animations/ThirdPersonWalk
+[2023.06.01-01.31.39:258][ 53]AssetTools: /Game/Mannequin/Animations/ThirdPersonRun
+[2023.06.01-01.31.39:258][ 53]AssetTools: /Game/Mannequin/Animations/ThirdPersonIdle
+[2023.06.01-01.31.39:259][ 53]AssetTools: /Game/Mannequin/Animations/ThirdPerson_Jump
+[2023.06.01-01.31.39:259][ 53]AssetTools: /Game/Mannequin/Animations/ThirdPersonJump_Start
+[2023.06.01-01.31.39:259][ 53]AssetTools: /Game/Mannequin/Animations/ThirdPersonJump_Loop
+[2023.06.01-01.31.39:259][ 53]AssetTools: /Game/BluePrint/BP_Platform
+[2023.06.01-01.31.39:259][ 53]AssetTools: /Game/StarterContent/Materials/M_Brick_Clay_New
+[2023.06.01-01.31.39:259][ 53]AssetTools: /Game/StarterContent/Textures/T_Detail_Rocky_N
+[2023.06.01-01.31.39:259][ 53]AssetTools: /Game/StarterContent/Textures/T_Brick_Clay_New_N
+[2023.06.01-01.31.39:259][ 53]AssetTools: /Game/StarterContent/Textures/T_Brick_Clay_New_M
+[2023.06.01-01.31.39:259][ 53]AssetTools: /Game/StarterContent/Textures/T_Brick_Clay_New_D
+[2023.06.01-01.31.39:259][ 53]AssetTools: /Game/StarterContent/Textures/T_MacroVariation
+[2023.06.01-01.31.39:259][ 53]AssetTools: /Game/BluePrint/BP_Roller
+[2023.06.01-01.31.39:259][ 53]AssetTools: /Game/Meshes/roller
+[2023.06.01-01.31.39:259][ 53]AssetTools: /Game/StarterContent/Materials/M_Basic_Floor
+[2023.06.01-01.31.39:259][ 53]AssetTools: /Game/BluePrint/BP_Spin
+[2023.06.01-01.31.39:259][ 53]AssetTools: /Game/BluePrint/BP_SpinCross
+[2023.06.01-01.31.39:259][ 53]AssetTools: /Game/StarterContent/Materials/M_AssetPlatform
+[2023.06.01-01.31.39:259][ 53]AssetTools: /Game/Meshes/cross
+[2023.06.01-01.31.39:259][ 53]AssetTools: /Game/BluePrint/BP_SwingBall
+[2023.06.01-01.31.39:259][ 53]AssetTools: /Game/StarterContent/Shapes/Shape_Cylinder
+[2023.06.01-01.31.39:259][ 53]AssetTools: /Game/StarterContent/Props/MaterialSphere
+[2023.06.01-01.31.39:259][ 53]AssetTools: /Game/BluePrint/BP_JumpPart
+[2023.06.01-01.38.05:236][ 82]BlueprintLog: New page: BP_JumpPart 컴파일
+[2023.06.01-01.38.05:291][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2023.06.01-01.38.18:738][859]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.06.01-01.38.18:742][859]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.01-01.38.18:742][859]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 6. 1. 오후 7:38:18)
+[2023.06.01-01.38.18:742][859]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.06.01-01.38.18:753][859]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010728s)
+[2023.06.01-01.38.18:754][859]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.06.01-01.38.18:754][859]LogPlayLevel: PIE: World Init took: (0.001033s)
+[2023.06.01-01.38.18:754][859]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011910s)
+[2023.06.01-01.38.18:787][859]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2023.06.01-01.38.18:789][859]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.06.01-01.38.18:790][859]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.01-01.38.18:790][859]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.01-01.38.18:790][859]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.01-01.38.18:790][859]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.01-01.38.18:790][859]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.01-01.38.18:790][859]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.01-01.38.18:790][859]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.01-01.38.18:790][859]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.01-01.38.18:790][859]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.01-01.38.18:790][859]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.01-01.38.18:790][859]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.01-01.38.18:790][859]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.01-01.38.18:792][859]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.01-01.38.18:792][859]LogAudioMixer: Display: 1: FrontRight
+[2023.06.01-01.38.18:842][859]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2023.06.01-01.38.18:842][859]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.01-01.38.18:842][859]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.01-01.38.18:842][859]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.01-01.38.18:843][859]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.01-01.38.18:843][859]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.01-01.38.18:843][859]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.01-01.38.18:844][859]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.01-01.38.18:844][859]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.01-01.38.18:844][859]LogInit: FAudioDevice initialized.
+[2023.06.01-01.38.18:844][859]LogAudio: Display: Audio Device (ID: 13) registered with world 'ThirdPersonExampleMap'.
+[2023.06.01-01.38.18:849][859]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.06.01-01.38.18:852][859]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.06.01-10.38.18
+[2023.06.01-01.38.18:852][859]LogWorld: Bringing up level for play took: 0.001550
+[2023.06.01-01.38.18:852][859]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2023.06.01-01.38.18:854][859]PIE: 서버가 로그인했습니다.
+[2023.06.01-01.38.18:855][859]PIE: 에디터에서 플레이 총 시작 시간 0.113초입니다.
+[2023.06.01-01.38.23:876][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-01.38.23:876][153]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.06.01-01.38.23:877][153]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-01.38.23:877][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-01.38.23:889][153]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.01-01.38.23:899][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-01.38.23:925][153]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.01-01.38.23:925][153]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.01-01.38.23:927][153]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.01-01.38.23:930][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-01.38.23:933][153]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.06.01-01.38.23:958][154]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.06.01-01.38.43:634][458]LogEditorViewport: Clicking on Actor (LMB): BP_JumpPart_C (BP_JumpPart)
+[2023.06.01-01.41.04:191][200]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.06.01-01.41.04:207][200]LogSavePackage: Moving '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/ThirdPersonExampleMap_Auto55A67AAF24134FCEDD727B7B4909A3111.tmp' to '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2023.06.01-01.41.04:208][200]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.049
+[2023.06.01-01.41.04:208][200]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2023.06.01-01.41.04:208][200]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrint/BP_JumpPart] ([2] browsable assets)...
+[2023.06.01-01.41.04:221][200]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/BP_JumpPart.BP_JumpPart]
+[2023.06.01-01.41.04:221][200]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_JumpPart]
+[2023.06.01-01.41.04:230][200]LogSavePackage: Moving '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/BP_JumpPart_Auto5A5425E9346CFF252DB53FB9A7CB7F5A8.tmp' to '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/Autosaves/Game/BluePrint/BP_JumpPart_Auto5.uasset'
+[2023.06.01-01.41.04:231][200]LogFileHelpers: Auto-saving content packages took 0.023
+[2023.06.01-02.51.56:410][ 69]BlueprintLog: New page: BP_JumpPart 컴파일
+[2023.06.01-02.51.56:476][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2023.06.01-02.51.58:732][179]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.06.01-02.51.58:736][179]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.01-02.51.58:736][179]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 6. 1. 오후 8:51:58)
+[2023.06.01-02.51.58:736][179]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.06.01-02.51.58:747][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010538s)
+[2023.06.01-02.51.58:748][179]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.06.01-02.51.58:748][179]LogPlayLevel: PIE: World Init took: (0.000973s)
+[2023.06.01-02.51.58:748][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011639s)
+[2023.06.01-02.51.58:780][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.06.01-02.51.58:781][179]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.06.01-02.51.58:781][179]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.01-02.51.58:781][179]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.01-02.51.58:781][179]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.01-02.51.58:781][179]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.01-02.51.58:781][179]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.01-02.51.58:781][179]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.01-02.51.58:781][179]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.01-02.51.58:781][179]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.01-02.51.58:782][179]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.01-02.51.58:782][179]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.01-02.51.58:782][179]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.01-02.51.58:782][179]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.01-02.51.58:784][179]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.01-02.51.58:784][179]LogAudioMixer: Display: 1: FrontRight
+[2023.06.01-02.51.58:844][179]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2023.06.01-02.51.58:844][179]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.01-02.51.58:844][179]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.01-02.51.58:844][179]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.01-02.51.58:845][179]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.01-02.51.58:845][179]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.01-02.51.58:845][179]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.01-02.51.58:847][179]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.01-02.51.58:847][179]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.01-02.51.58:847][179]LogInit: FAudioDevice initialized.
+[2023.06.01-02.51.58:847][179]LogAudio: Display: Audio Device (ID: 14) registered with world 'ThirdPersonExampleMap'.
+[2023.06.01-02.51.58:852][179]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.06.01-02.51.58:853][179]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.06.01-11.51.58
+[2023.06.01-02.51.58:853][179]LogWorld: Bringing up level for play took: 0.001471
+[2023.06.01-02.51.58:853][179]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2023.06.01-02.51.58:855][179]PIE: 서버가 로그인했습니다.
+[2023.06.01-02.51.58:856][179]PIE: 에디터에서 플레이 총 시작 시간 0.12초입니다.
+[2023.06.01-02.52.15:706][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-02.52.15:706][187]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.06.01-02.52.15:706][187]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-02.52.15:706][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-02.52.15:718][187]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.01-02.52.15:727][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-02.52.15:752][187]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.01-02.52.15:753][187]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.01-02.52.15:754][187]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.01-02.52.15:758][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-02.52.15:761][187]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.06.01-02.52.15:782][188]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.06.01-02.52.25:989][502]LogEditorViewport: Clicking on Actor (LMB): BP_JumpPart_C (BP_JumpPart)
+[2023.06.01-02.52.37:224][971]BlueprintLog: New page: BP_JumpPart 컴파일
+[2023.06.01-02.52.37:283][971]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2023.06.01-02.52.40:410][137]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.06.01-02.52.40:413][137]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.01-02.52.40:413][137]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 6. 1. 오후 8:52:40)
+[2023.06.01-02.52.40:413][137]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.06.01-02.52.40:421][137]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008431s)
+[2023.06.01-02.52.40:422][137]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.06.01-02.52.40:422][137]LogPlayLevel: PIE: World Init took: (0.001111s)
+[2023.06.01-02.52.40:422][137]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009704s)
+[2023.06.01-02.52.40:452][137]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2023.06.01-02.52.40:454][137]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.06.01-02.52.40:454][137]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.01-02.52.40:454][137]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.01-02.52.40:454][137]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.01-02.52.40:454][137]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.01-02.52.40:454][137]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.01-02.52.40:454][137]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.01-02.52.40:454][137]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.01-02.52.40:454][137]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.01-02.52.40:455][137]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.01-02.52.40:455][137]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.01-02.52.40:455][137]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.01-02.52.40:455][137]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.01-02.52.40:456][137]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.01-02.52.40:456][137]LogAudioMixer: Display: 1: FrontRight
+[2023.06.01-02.52.40:503][137]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2023.06.01-02.52.40:503][137]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.01-02.52.40:503][137]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.01-02.52.40:503][137]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.01-02.52.40:503][137]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.01-02.52.40:503][137]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.01-02.52.40:503][137]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.01-02.52.40:504][137]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.01-02.52.40:504][137]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.01-02.52.40:504][137]LogInit: FAudioDevice initialized.
+[2023.06.01-02.52.40:504][137]LogAudio: Display: Audio Device (ID: 15) registered with world 'ThirdPersonExampleMap'.
+[2023.06.01-02.52.40:513][137]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.06.01-02.52.40:515][137]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.06.01-11.52.40
+[2023.06.01-02.52.40:515][137]LogWorld: Bringing up level for play took: 0.001377
+[2023.06.01-02.52.40:515][137]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2023.06.01-02.52.40:518][137]PIE: 서버가 로그인했습니다.
+[2023.06.01-02.52.40:518][137]PIE: 에디터에서 플레이 총 시작 시간 0.105초입니다.
+[2023.06.01-02.52.42:444][250]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2023.06.01-02.52.46:026][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-02.52.46:026][463]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.06.01-02.52.46:026][463]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-02.52.46:026][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-02.52.46:039][463]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.01-02.52.46:048][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-02.52.46:073][463]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.01-02.52.46:074][463]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.01-02.52.46:075][463]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.01-02.52.46:079][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-02.52.46:082][463]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.06.01-02.52.46:109][464]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.06.01-02.52.48:057][580]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.06.01-02.52.48:060][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.01-02.52.48:060][580]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 6. 1. 오후 8:52:48)
+[2023.06.01-02.52.48:060][580]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.06.01-02.52.48:069][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007964s)
+[2023.06.01-02.52.48:070][580]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.06.01-02.52.48:070][580]LogPlayLevel: PIE: World Init took: (0.001232s)
+[2023.06.01-02.52.48:070][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009320s)
+[2023.06.01-02.52.48:100][580]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.06.01-02.52.48:102][580]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.06.01-02.52.48:102][580]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.01-02.52.48:102][580]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.01-02.52.48:102][580]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.01-02.52.48:102][580]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.01-02.52.48:102][580]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.01-02.52.48:102][580]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.01-02.52.48:102][580]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.01-02.52.48:102][580]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.01-02.52.48:102][580]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.01-02.52.48:102][580]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.01-02.52.48:102][580]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.01-02.52.48:102][580]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.01-02.52.48:105][580]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.01-02.52.48:105][580]LogAudioMixer: Display: 1: FrontRight
+[2023.06.01-02.52.48:151][580]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2023.06.01-02.52.48:151][580]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.01-02.52.48:151][580]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.01-02.52.48:151][580]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.01-02.52.48:151][580]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.01-02.52.48:151][580]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.01-02.52.48:151][580]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.01-02.52.48:152][580]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.01-02.52.48:152][580]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.01-02.52.48:152][580]LogInit: FAudioDevice initialized.
+[2023.06.01-02.52.48:152][580]LogAudio: Display: Audio Device (ID: 16) registered with world 'ThirdPersonExampleMap'.
+[2023.06.01-02.52.48:158][580]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.06.01-02.52.48:159][580]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.06.01-11.52.48
+[2023.06.01-02.52.48:159][580]LogWorld: Bringing up level for play took: 0.001465
+[2023.06.01-02.52.48:159][580]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2023.06.01-02.52.48:162][580]PIE: 서버가 로그인했습니다.
+[2023.06.01-02.52.48:162][580]PIE: 에디터에서 플레이 총 시작 시간 0.102초입니다.
+[2023.06.01-02.52.54:996][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-02.52.54:996][985]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.06.01-02.52.54:996][985]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-02.52.54:996][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-02.52.55:007][985]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.01-02.52.55:016][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-02.52.55:044][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-02.52.55:045][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.01-02.52.55:046][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.01-02.52.55:052][985]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.06.01-02.52.55:075][986]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.06.01-02.54.10:712][505]BlueprintLog: New page: BP_JumpPart 컴파일
+[2023.06.01-02.54.10:768][505]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2023.06.01-02.54.13:334][632]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.06.01-02.54.13:337][632]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.01-02.54.13:337][632]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 6. 1. 오후 8:54:13)
+[2023.06.01-02.54.13:337][632]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.06.01-02.54.13:346][632]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008143s)
+[2023.06.01-02.54.13:347][632]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.06.01-02.54.13:347][632]LogPlayLevel: PIE: World Init took: (0.001368s)
+[2023.06.01-02.54.13:347][632]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009638s)
+[2023.06.01-02.54.13:377][632]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2023.06.01-02.54.13:378][632]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.06.01-02.54.13:378][632]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.01-02.54.13:378][632]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.01-02.54.13:378][632]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.01-02.54.13:378][632]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.01-02.54.13:378][632]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.01-02.54.13:378][632]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.01-02.54.13:378][632]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.01-02.54.13:378][632]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.01-02.54.13:379][632]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.01-02.54.13:379][632]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.01-02.54.13:379][632]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.01-02.54.13:379][632]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.01-02.54.13:381][632]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.01-02.54.13:381][632]LogAudioMixer: Display: 1: FrontRight
+[2023.06.01-02.54.13:430][632]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2023.06.01-02.54.13:431][632]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.01-02.54.13:431][632]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.01-02.54.13:431][632]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.01-02.54.13:431][632]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.01-02.54.13:431][632]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.01-02.54.13:431][632]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.01-02.54.13:432][632]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.01-02.54.13:432][632]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.01-02.54.13:432][632]LogInit: FAudioDevice initialized.
+[2023.06.01-02.54.13:432][632]LogAudio: Display: Audio Device (ID: 17) registered with world 'ThirdPersonExampleMap'.
+[2023.06.01-02.54.13:441][632]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.06.01-02.54.13:443][632]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.06.01-11.54.13
+[2023.06.01-02.54.13:443][632]LogWorld: Bringing up level for play took: 0.001264
+[2023.06.01-02.54.13:443][632]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2023.06.01-02.54.13:445][632]PIE: 서버가 로그인했습니다.
+[2023.06.01-02.54.13:445][632]PIE: 에디터에서 플레이 총 시작 시간 0.109초입니다.
+[2023.06.01-02.54.15:356][746]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2023.06.01-02.54.18:126][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-02.54.18:126][910]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.06.01-02.54.18:126][910]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-02.54.18:126][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-02.54.18:142][910]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.01-02.54.18:149][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-02.54.18:176][910]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.01-02.54.18:176][910]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.01-02.54.18:177][910]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.01-02.54.18:180][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-02.54.18:184][910]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.06.01-02.54.18:212][911]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.06.01-02.54.19:652][997]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.06.01-02.54.19:656][997]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.01-02.54.19:656][997]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 6. 1. 오후 8:54:19)
+[2023.06.01-02.54.19:656][997]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.06.01-02.54.19:664][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007826s)
+[2023.06.01-02.54.19:665][997]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.06.01-02.54.19:665][997]LogPlayLevel: PIE: World Init took: (0.001100s)
+[2023.06.01-02.54.19:665][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009050s)
+[2023.06.01-02.54.19:695][997]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2023.06.01-02.54.19:697][997]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.06.01-02.54.19:697][997]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.01-02.54.19:697][997]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.01-02.54.19:697][997]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.01-02.54.19:697][997]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.01-02.54.19:697][997]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.01-02.54.19:697][997]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.01-02.54.19:697][997]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.01-02.54.19:697][997]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.01-02.54.19:697][997]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.01-02.54.19:697][997]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.01-02.54.19:697][997]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.01-02.54.19:697][997]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.01-02.54.19:699][997]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.01-02.54.19:699][997]LogAudioMixer: Display: 1: FrontRight
+[2023.06.01-02.54.19:746][997]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2023.06.01-02.54.19:746][997]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.01-02.54.19:746][997]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.01-02.54.19:746][997]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.01-02.54.19:746][997]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.01-02.54.19:746][997]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.01-02.54.19:746][997]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.01-02.54.19:747][997]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.01-02.54.19:747][997]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.01-02.54.19:747][997]LogInit: FAudioDevice initialized.
+[2023.06.01-02.54.19:747][997]LogAudio: Display: Audio Device (ID: 18) registered with world 'ThirdPersonExampleMap'.
+[2023.06.01-02.54.19:754][997]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.06.01-02.54.19:756][997]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.06.01-11.54.19
+[2023.06.01-02.54.19:756][997]LogWorld: Bringing up level for play took: 0.001428
+[2023.06.01-02.54.19:756][997]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2023.06.01-02.54.19:758][997]PIE: 서버가 로그인했습니다.
+[2023.06.01-02.54.19:758][997]PIE: 에디터에서 플레이 총 시작 시간 0.103초입니다.
+[2023.06.01-02.54.24:315][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-02.54.24:316][268]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.06.01-02.54.24:316][268]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-02.54.24:316][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-02.54.24:325][268]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.01-02.54.24:334][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-02.54.24:360][268]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.01-02.54.24:360][268]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.01-02.54.24:361][268]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.01-02.54.24:364][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-02.54.24:367][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.06.01-02.54.24:389][269]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.06.01-02.55.23:816][710]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.06.01-02.55.23:819][710]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2023.06.01-02.55.23:820][710]LogPlayLevel: [PlayLevel] Compiling BP_JumpPart before play...
+[2023.06.01-02.55.23:879][710]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2023.06.01-02.55.23:882][710]LogPlayLevel: PlayLevel: Blueprint regeneration took 62 ms (1 blueprints)
+[2023.06.01-02.55.23:882][710]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 6. 1. 오후 8:55:23)
+[2023.06.01-02.55.23:882][710]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.06.01-02.55.23:893][710]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010931s)
+[2023.06.01-02.55.23:893][710]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.06.01-02.55.23:893][710]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2023.06.01-02.55.23:893][710]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011836s)
+[2023.06.01-02.55.23:922][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.06.01-02.55.23:923][710]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.06.01-02.55.23:923][710]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.01-02.55.23:923][710]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.01-02.55.23:923][710]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.01-02.55.23:923][710]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.01-02.55.23:923][710]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.01-02.55.23:923][710]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.01-02.55.23:923][710]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.01-02.55.23:923][710]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.01-02.55.23:924][710]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.01-02.55.23:924][710]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.01-02.55.23:924][710]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.01-02.55.23:924][710]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.01-02.55.23:925][710]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.01-02.55.23:925][710]LogAudioMixer: Display: 1: FrontRight
+[2023.06.01-02.55.23:973][710]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2023.06.01-02.55.23:973][710]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.01-02.55.23:973][710]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.01-02.55.23:973][710]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.01-02.55.23:973][710]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.01-02.55.23:973][710]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.01-02.55.23:973][710]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.01-02.55.23:974][710]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.01-02.55.23:974][710]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.01-02.55.23:974][710]LogInit: FAudioDevice initialized.
+[2023.06.01-02.55.23:974][710]LogAudio: Display: Audio Device (ID: 19) registered with world 'ThirdPersonExampleMap'.
+[2023.06.01-02.55.23:982][710]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.06.01-02.55.23:985][710]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.06.01-11.55.23
+[2023.06.01-02.55.23:985][710]LogWorld: Bringing up level for play took: 0.001729
+[2023.06.01-02.55.23:985][710]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2023.06.01-02.55.23:986][710]PIE: 서버가 로그인했습니다.
+[2023.06.01-02.55.23:987][710]PIE: 에디터에서 플레이 총 시작 시간 0.168초입니다.
+[2023.06.01-02.55.41:425][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-02.55.41:425][751]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.06.01-02.55.41:426][751]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-02.55.41:426][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-02.55.41:435][751]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.01-02.55.41:445][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-02.55.41:473][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-02.55.41:473][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.01-02.55.41:474][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.01-02.55.41:480][751]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.06.01-02.55.41:502][752]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.06.01-02.56.38:953][269]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.06.01-02.56.38:967][269]LogSavePackage: Moving '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/ThirdPersonExampleMap_Auto63A3D615E4890AA066927AC8345785789.tmp' to '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2023.06.01-02.56.38:968][269]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.044
+[2023.06.01-02.56.38:968][269]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2023.06.01-02.56.38:968][269]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrint/BP_JumpPart] ([2] browsable assets)...
+[2023.06.01-02.56.38:982][269]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/BP_JumpPart.BP_JumpPart]
+[2023.06.01-02.56.38:982][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_JumpPart]
+[2023.06.01-02.56.38:993][269]LogSavePackage: Moving '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/BP_JumpPart_Auto6A05E78A24891C4277A400ABD3948B2B4.tmp' to '../../../../../../Users/황수빈/OneDrive/문서/GitHub/Unreal_Obstacle/Obstacle/Saved/Autosaves/Game/BluePrint/BP_JumpPart_Auto6.uasset'
+[2023.06.01-02.56.38:993][269]LogFileHelpers: Auto-saving content packages took 0.025
+[2023.06.01-02.56.56:730][ 17]BlueprintLog: New page: BP_JumpPart 컴파일
+[2023.06.01-02.56.56:789][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2023.06.01-02.56.59:749][163]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.06.01-02.56.59:754][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.01-02.56.59:754][163]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 6. 1. 오후 8:56:59)
+[2023.06.01-02.56.59:754][163]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.06.01-02.56.59:764][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010554s)
+[2023.06.01-02.56.59:765][163]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.06.01-02.56.59:765][163]LogPlayLevel: PIE: World Init took: (0.001564s)
+[2023.06.01-02.56.59:765][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012275s)
+[2023.06.01-02.56.59:800][163]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2023.06.01-02.56.59:802][163]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.06.01-02.56.59:802][163]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.01-02.56.59:802][163]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.01-02.56.59:802][163]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.01-02.56.59:802][163]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.01-02.56.59:802][163]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.01-02.56.59:802][163]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.01-02.56.59:802][163]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.01-02.56.59:802][163]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.01-02.56.59:802][163]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.01-02.56.59:802][163]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.01-02.56.59:802][163]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.01-02.56.59:802][163]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.01-02.56.59:804][163]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.01-02.56.59:804][163]LogAudioMixer: Display: 1: FrontRight
+[2023.06.01-02.56.59:852][163]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2023.06.01-02.56.59:852][163]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.01-02.56.59:852][163]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.01-02.56.59:852][163]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.01-02.56.59:852][163]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.01-02.56.59:853][163]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.01-02.56.59:853][163]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.01-02.56.59:855][163]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.01-02.56.59:855][163]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.01-02.56.59:855][163]LogInit: FAudioDevice initialized.
+[2023.06.01-02.56.59:855][163]LogAudio: Display: Audio Device (ID: 20) registered with world 'ThirdPersonExampleMap'.
+[2023.06.01-02.56.59:860][163]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.06.01-02.56.59:862][163]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.06.01-11.56.59
+[2023.06.01-02.56.59:862][163]LogWorld: Bringing up level for play took: 0.001392
+[2023.06.01-02.56.59:862][163]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2023.06.01-02.56.59:864][163]PIE: 서버가 로그인했습니다.
+[2023.06.01-02.56.59:865][163]PIE: 에디터에서 플레이 총 시작 시간 0.112초입니다.
+[2023.06.01-02.57.13:344][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-02.57.13:344][968]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.06.01-02.57.13:346][968]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-02.57.13:346][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-02.57.13:362][968]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.01-02.57.13:370][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-02.57.13:395][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-02.57.13:395][968]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.01-02.57.13:397][968]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.01-02.57.13:402][968]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.06.01-02.57.13:426][969]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.06.01-02.58.50:221][395]BlueprintLog: New page: BP_JumpPart 컴파일
+[2023.06.01-02.58.50:277][395]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.06.01-02.58.52:673][507]LogTemp: Repeating last play command: 선택된 뷰포트
+[2023.06.01-02.58.52:677][507]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.01-02.58.52:677][507]PIE: New page: PIE 세션: ThirdPersonExampleMap (2023. 6. 1. 오후 8:58:52)
+[2023.06.01-02.58.52:677][507]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.06.01-02.58.52:688][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011270s)
+[2023.06.01-02.58.52:689][507]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.06.01-02.58.52:689][507]LogPlayLevel: PIE: World Init took: (0.001262s)
+[2023.06.01-02.58.52:689][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012666s)
+[2023.06.01-02.58.52:721][507]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2023.06.01-02.58.52:723][507]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.06.01-02.58.52:723][507]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.01-02.58.52:723][507]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.01-02.58.52:723][507]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.01-02.58.52:723][507]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.01-02.58.52:723][507]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.01-02.58.52:723][507]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.01-02.58.52:723][507]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.01-02.58.52:723][507]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.01-02.58.52:723][507]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.01-02.58.52:723][507]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.01-02.58.52:723][507]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.01-02.58.52:723][507]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.01-02.58.52:725][507]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.01-02.58.52:725][507]LogAudioMixer: Display: 1: FrontRight
+[2023.06.01-02.58.52:774][507]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2023.06.01-02.58.52:774][507]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.01-02.58.52:774][507]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.01-02.58.52:774][507]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.01-02.58.52:775][507]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.01-02.58.52:775][507]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.01-02.58.52:775][507]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.01-02.58.52:776][507]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.01-02.58.52:776][507]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.01-02.58.52:776][507]LogInit: FAudioDevice initialized.
+[2023.06.01-02.58.52:776][507]LogAudio: Display: Audio Device (ID: 21) registered with world 'ThirdPersonExampleMap'.
+[2023.06.01-02.58.52:783][507]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.06.01-02.58.52:785][507]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.06.01-11.58.52
+[2023.06.01-02.58.52:785][507]LogWorld: Bringing up level for play took: 0.001285
+[2023.06.01-02.58.52:785][507]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2023.06.01-02.58.52:787][507]PIE: 서버가 로그인했습니다.
+[2023.06.01-02.58.52:788][507]PIE: 에디터에서 플레이 총 시작 시간 0.112초입니다.
+[2023.06.01-02.59.14:391][802]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0.0
+[2023.06.01-02.59.17:295][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-02.59.17:295][974]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.06.01-02.59.17:295][974]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.01-02.59.17:295][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-02.59.17:310][974]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.01-02.59.17:320][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.01-02.59.17:346][974]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.01-02.59.17:346][974]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.01-02.59.17:348][974]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.01-02.59.17:351][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.01-02.59.17:354][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.06.01-02.59.17:374][975]LogPlayLevel: Display: Destroying online subsystem :Context_36
